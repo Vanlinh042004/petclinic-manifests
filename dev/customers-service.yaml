@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
         - name: customers-service
-          image: thainhat104/spring-petclinic:latest
+          image: thainhat104/spring-petclinic:main
           ports:
             - containerPort: 8080
